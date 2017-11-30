@@ -1,0 +1,2 @@
+# gogc
+GC by GoLang
