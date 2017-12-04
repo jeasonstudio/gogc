@@ -1,4 +1,4 @@
-package demo
+package main
 
 import (
 	"errors"
@@ -127,7 +127,7 @@ func Test2() {
 	}
 }
 
-// func main() {
-// 	Test1()
-// 	Test2()
-// }
+func main() {
+	Test1()
+	Test2()
+}
